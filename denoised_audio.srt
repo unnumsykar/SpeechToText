@@ -1,0 +1,1132 @@
+1
+00:00:00,069 --> 00:00:02,090
+Congratulations to you Mr. Raghavan for that.
+
+2
+00:00:02,290 --> 00:00:03,430
+Thank you so much for joining us.
+
+3
+00:00:03,790 --> 00:00:04,231
+Over to you.
+
+4
+00:00:08,732 --> 00:00:09,332
+Hi everybody.
+
+5
+00:00:09,693 --> 00:00:10,053
+How are you?
+
+6
+00:00:12,314 --> 00:00:13,554
+I am not hearing this at all.
+
+7
+00:00:13,934 --> 00:00:16,935
+It's like a post-lunch energy downer or something.
+
+8
+00:00:18,296 --> 00:00:18,716
+Let's hear it.
+
+9
+00:00:19,816 --> 00:00:20,557
+Are you guys awake?
+
+10
+00:00:22,017 --> 00:00:22,317
+Alright.
+
+11
+00:00:23,018 --> 00:00:26,859
+You better be because we have a superstar guest here.
+
+12
+00:00:27,749 --> 00:00:29,310
+You heard the $41 million.
+
+13
+00:00:29,630 --> 00:00:32,352
+I didn't hear honestly anything that she said after that.
+
+14
+00:00:33,253 --> 00:00:38,436
+So we're going to ask for about $40 million from him by the end of this conversation.
+
+15
+00:00:39,857 --> 00:00:40,617
+But let's get started.
+
+16
+00:00:41,858 --> 00:00:44,940
+I want to introduce Vivek and Pratyush, his co-founder, who's not here.
+
+17
+00:00:45,840 --> 00:00:50,863
+We wanted to start with playing a video of what Open Hati does.
+
+18
+00:00:51,143 --> 00:00:55,366
+I encourage all of you to go to the website server.ai and check it out.
+
+19
+00:00:56,786 --> 00:00:58,207
+But let me start by introducing Vivek.
+
+20
+00:00:58,847 --> 00:01:04,249
+Vivek is a dear friend and he is very very modest, one of the most modest guys that I know.
+
+21
+00:01:04,789 --> 00:01:16,534
+But his personal journey Vivek, you got a PhD from Carnegie Mellon, you started and sold a company to Magma and Vivek and I moved back to India, we were both in the valley on the same day actually.
+
+22
+00:01:17,434 --> 00:01:18,835
+And you've been in India for the last 16 years.
+
+23
+00:01:20,309 --> 00:01:25,132
+And what most people don't know is your journey at Aadhaar.
+
+24
+00:01:25,292 --> 00:01:28,514
+He spent 13 years selflessly at Aadhaar.
+
+25
+00:01:28,814 --> 00:01:29,695
+Nobody would have heard of him.
+
+26
+00:01:30,715 --> 00:01:37,319
+But he was a pioneering technology visionary behind Aadhaar, which we all take for granted today.
+
+27
+00:01:38,720 --> 00:01:40,161
+So please give it out.
+
+28
+00:01:40,741 --> 00:01:46,965
+So honestly, when I think of selfless service, truly selfless service, I always think of the way.
+
+29
+00:01:48,081 --> 00:01:54,703
+And since then he also was at AI for Bharat, which we're going to touch on with Pratyush's other co-founder.
+
+30
+00:01:55,363 --> 00:01:57,864
+Pratyush had a PhD from ETH at Zurich.
+
+31
+00:01:58,584 --> 00:02:06,046
+He was at IBM Research, he was at Microsoft Research playing a key role and a faculty at IIT Madras and at AI for Bharat.
+
+32
+00:02:06,585 --> 00:02:08,626
+So that's a little brief introduction about them.
+
+33
+00:02:08,807 --> 00:02:10,888
+These guys are modest, modest engineers.
+
+34
+00:02:11,969 --> 00:02:13,309
+So they don't toot their own horn.
+
+35
+00:02:14,050 --> 00:02:16,992
+So forgive me for tooting their horn in this case.
+
+36
+00:02:17,672 --> 00:02:21,094
+But let's jump right in about the money.
+
+37
+00:02:21,675 --> 00:02:23,696
+Funding, 41 million bucks man.
+
+38
+00:02:23,736 --> 00:02:25,717
+That's a lot of money, right?
+
+39
+00:02:25,817 --> 00:02:28,559
+Every entrepreneur here is saying, what the hell did these guys do?
+
+40
+00:02:29,139 --> 00:02:31,561
+What did the investors see to write such a big cheque?
+
+41
+00:02:33,202 --> 00:02:57,652
+I think it's a new trend of what's going on in India I think that for the very first time I think investors have looked at you know let's try and build something deep tech out of the country and let's try to figure out how to build something as a foundational technology out of the country and that's really what's really exciting you know and I think that about you know as
+
+42
+00:02:59,494 --> 00:03:10,541
+While I was mentioning for the past 15 years, I've been kind of working in both the digital public infrastructure and non-profit kind of things.
+
+43
+00:03:10,862 --> 00:03:19,127
+But when this whole thing of generative AI came about, we said, OK, how can I actually make a difference in this space?
+
+44
+00:03:19,187 --> 00:03:25,311
+And I said, maybe this is the opportunity to actually come out and really build something.
+
+45
+00:03:25,832 --> 00:03:29,014
+And the only way that we realize that we can do this actually
+
+46
+00:03:30,675 --> 00:03:45,411
+in the private sector and I think that's that and then we when we went out there and we said we want to build something which is a continuation right I mean and fundamentally the question is the reason of what we want to do at Servam AI is we want to basically make generative AI
+
+47
+00:03:46,622 --> 00:04:15,858
+available and accessible to the people in the country and that's the intent and when we said that we want to do this there was a resonance in the investment community and I think it's a responsibility to really to show that something like this can be built out of India so we see that as confidence and a responsibility and I also hope it's a trend that there are many more people like us who are backed because if you look at it maybe it's a large number in a
+
+48
+00:04:16,719 --> 00:04:24,905
+you know in the Indian context but in the global context I think there is just there should be many many more entrepreneurs who are back to do things in India.
+
+49
+00:04:26,026 --> 00:04:44,402
+I'm going to come back to the many more entrepreneurs I'm obviously going to ask you about Bhavesh's Kuthrin so we're going to come back to the question but again $41 million all of what you said you know $2 million you know that's a good amount of money for a startup which you know which has not yet built anything
+
+50
+00:04:45,653 --> 00:04:49,094
+What are you going to do with all this money?
+
+51
+00:04:49,174 --> 00:04:50,274
+I can solve the problem.
+
+52
+00:04:50,354 --> 00:04:52,155
+I can have a perfect solution for the problem.
+
+53
+00:04:52,215 --> 00:04:58,157
+I think in the last week I've got lots of calls from lots of people telling me how I can do it.
+
+54
+00:04:58,517 --> 00:04:59,077
+I know you first.
+
+55
+00:04:59,537 --> 00:05:00,938
+We landed in the country the same day.
+
+56
+00:05:01,038 --> 00:05:01,878
+I'm in front of the queue.
+
+57
+00:05:03,041 --> 00:05:09,424
+No, but honestly, I think the key thing in this is, is to putting together an amazing team.
+
+58
+00:05:09,684 --> 00:05:15,127
+And we actually have an amazing team, but believe that it is talent that will drive this kind of thing.
+
+59
+00:05:15,187 --> 00:05:18,008
+And so it is, it is to get, get talent.
+
+60
+00:05:18,329 --> 00:05:19,709
+And of course the other thing is compute.
+
+61
+00:05:19,729 --> 00:05:25,192
+This is extremely expensive compute wise to actually do these kinds of things.
+
+62
+00:05:25,552 --> 00:05:30,315
+And I think that those are the primary things that, that, you know, use this one.
+
+63
+00:05:30,855 --> 00:05:31,035
+Okay.
+
+64
+00:05:33,081 --> 00:05:34,922
+I'm computing in my own head as an entrepreneur.
+
+65
+00:05:34,962 --> 00:05:37,263
+Talent, okay, you have like 20, 50 people.
+
+66
+00:05:37,704 --> 00:05:39,464
+How much are you paying these guys?
+
+67
+00:05:39,825 --> 00:05:41,385
+You won't touch on that.
+
+68
+00:05:41,606 --> 00:05:43,667
+But let's talk about what you guys actually built.
+
+69
+00:05:43,787 --> 00:05:44,987
+What is open Hati?
+
+70
+00:05:45,307 --> 00:05:48,669
+How would you explain open Hati to many people here who might not have known about it?
+
+71
+00:05:49,375 --> 00:06:00,023
+So I think OpenHAPI is, so first of all, we come from, I personally come from the open source ecosystem and also from the DPI ecosystem.
+
+72
+00:06:00,423 --> 00:06:05,307
+So we believe that for this to work, we need the ecosystem to be successful.
+
+73
+00:06:05,347 --> 00:06:08,309
+And as a result of that, one of the first things we did was
+
+74
+00:06:08,849 --> 00:06:12,690
+hey, there are these open source large language models that exist, right?
+
+75
+00:06:12,730 --> 00:06:23,112
+I mean, everybody knows about the Llama family from Meta, there are others like Mistral, there are a bunch of open source, you know, large language models.
+
+76
+00:06:23,652 --> 00:06:30,774
+And then we said, is there any way that they can existing open source model and teach it language skills, right?
+
+77
+00:06:31,814 --> 00:06:37,078
+And that is really what we said, can we do something like that?
+
+78
+00:06:37,538 --> 00:06:47,486
+And is this a relatively frugal way of actually making models work in diverse languages?
+
+79
+00:06:47,546 --> 00:06:54,911
+Because the truth is still today, if you look at the amount of data and knowledge, still English dominates these things.
+
+80
+00:06:55,311 --> 00:07:05,037
+And I think that how do you actually take and make it, understand Indian language, understand Indian context, and all of those things in actually an efficient way.
+
+81
+00:07:05,117 --> 00:07:07,119
+And therefore this was an attempt to do that.
+
+82
+00:07:07,639 --> 00:07:20,887
+And it's an open-hearted, you know, it's currently based on the LAMA 7 billion model, but we'll be releasing many more models in different languages, different sizes, and things like that as part of this series.
+
+83
+00:07:22,468 --> 00:07:35,319
+And of course, you know, we will be building further models on those and doing other things to actually, and we'll also have endpoints that people can use, but it's not, it's definitely, you know, something that can use two things.
+
+84
+00:07:35,439 --> 00:07:40,162
+And that's the essence of what is open happiness.
+
+85
+00:07:40,243 --> 00:07:46,868
+So what does it mean to people in the audience here who are either doing their own startups or a business or developers?
+
+86
+00:07:47,819 --> 00:08:07,416
+how should they look at one of the important things that we are doing is we're not just building models we are also building a platform a platform for developers where you can actually use
+
+87
+00:08:08,356 --> 00:08:25,401
+a combination of various different kinds of models, some which are from us, some which are open source, some which may not be open source, and actually to pull together and figure out how to deploy generative AI applications at scale and understand and evaluate their performance.
+
+88
+00:08:26,681 --> 00:08:28,482
+And that's something that we are planning to do.
+
+89
+00:08:29,203 --> 00:08:35,366
+And this platform is, you know, in the next couple of months will be coming out there, be available to developers.
+
+90
+00:08:35,706 --> 00:08:41,009
+But of course, those who want to start with the open source things and act with that, of course, please go ahead.
+
+91
+00:08:41,249 --> 00:08:43,490
+That's phenomenal.
+
+92
+00:08:45,351 --> 00:08:48,293
+How does it compare to OpenAI itself or Google?
+
+93
+00:08:50,345 --> 00:08:53,167
+See, at least the things that we are doing now, right?
+
+94
+00:08:53,207 --> 00:09:08,139
+I mean, one of the things that when we thought about building server, we said we want to build a full stack general API company and different people and our understanding of stack is that we need to know how to train models from scratch.
+
+95
+00:09:08,639 --> 00:09:13,483
+We need to know how to kind of figure out how to deploy models to solve real world mistakes.
+
+96
+00:09:14,480 --> 00:09:22,344
+And we need to play in the ecosystem to make sure that we can actually deploy population scale applications.
+
+97
+00:09:22,664 --> 00:09:24,845
+So we were thinking about all of these things.
+
+98
+00:09:25,266 --> 00:09:29,388
+But still the models we were talking about are fairly small models.
+
+99
+00:09:29,448 --> 00:09:30,508
+They are fairly small models.
+
+100
+00:09:30,708 --> 00:09:34,911
+The 7 to maybe up to 70 billion kind of range we're talking about.
+
+101
+00:09:35,111 --> 00:09:39,293
+While these models like OpenAI and they're obviously much bigger.
+
+102
+00:09:40,474 --> 00:09:49,960
+But we want to understand the techniques and be able to build that muscle to do all of these things to make it available to people.
+
+103
+00:09:49,980 --> 00:09:58,926
+Now those models are I mean as I said you know I think that there is space for all of those things and I think as when Sridhar was talking about
+
+104
+00:09:59,747 --> 00:10:23,250
+earlier in the day, we believe that these smaller models can do many many kind of domain specific tasks extremely well, probably even better than the larger models and that is really one of the key areas and so therefore the value of these kinds of things, we are not aiming in these more set of models to build any AGI, that's not our goal.
+
+105
+00:10:23,810 --> 00:10:34,960
+Our goal is to make things that work extremely well for domain specific use cases or increase accessibility to language and obviously all of this unique to India.
+
+106
+00:10:35,320 --> 00:10:36,441
+What is unique about India?
+
+107
+00:10:37,602 --> 00:10:47,010
+Is there anything special in our ecosystem that makes small models focused with Indian languages more suited for our problems?
+
+108
+00:10:48,092 --> 00:10:53,258
+So I think that, I mean, there are quite a few things that are unique about India, right?
+
+109
+00:10:54,039 --> 00:10:57,803
+The first thing is I think that we are a voice first nations.
+
+110
+00:10:57,883 --> 00:11:01,367
+Therefore, I think voice has to be the core to doing things.
+
+111
+00:11:02,520 --> 00:11:10,065
+The other thing, of course, India is a cost-conscious country from a cost perspective.
+
+112
+00:11:10,365 --> 00:11:18,710
+I would say that there are lots of interesting use cases where you can use OpenAI and the cost structure works depending on your application.
+
+113
+00:11:18,990 --> 00:11:25,154
+But when you want to scale things to a massive level and make it work, then you have to figure out how small amounts work.
+
+114
+00:11:25,174 --> 00:11:28,276
+So that's something that is also specific to India.
+
+115
+00:11:28,596 --> 00:11:35,781
+The third thing which is specific to India is really the success that India has had in building all this digital public infrastructure.
+
+116
+00:11:36,101 --> 00:11:47,868
+When you add the AI layer on top of it, then you can actually get dramatic, you know, dramatic, I think, multiplicative combinatorial effects based on doing things like that.
+
+117
+00:11:47,908 --> 00:11:48,849
+That's a phenomenal point.
+
+118
+00:11:48,909 --> 00:11:51,791
+Like, you know, it's like DPI to the power of AI almost in some ways.
+
+119
+00:11:52,391 --> 00:11:55,753
+It's a part of Adhar, building Adhar, no better person than you.
+
+120
+00:11:57,685 --> 00:12:08,877
+So, in summary what I am hearing is small models specialized with trained with big specific language data suited for Indian problems at a compelling cost point will be suited for us.
+
+121
+00:12:08,897 --> 00:12:12,741
+We are not solving some world or some complex problem.
+
+122
+00:12:12,761 --> 00:12:13,242
+We are solving
+
+123
+00:12:13,760 --> 00:12:37,093
+basic problems specifically focus with on voice of multiple languages that is what you see as the future am I paraphrasing this correctly no yeah so I think that certainly I mean a voice at Indian languages are an important part of our strategy but we will be building you know custom models to solve various other kinds of problems as well right it's not just limited to I think in different domains
+
+124
+00:12:38,153 --> 00:12:42,819
+domains making building things based on unique data that enterprises have.
+
+125
+00:12:43,459 --> 00:12:45,001
+So that's something.
+
+126
+00:12:45,401 --> 00:12:45,742
+Fair enough.
+
+127
+00:12:46,282 --> 00:12:51,088
+So coming back to the elephant in the room, no pun intended with open Hati.
+
+128
+00:12:51,789 --> 00:12:53,831
+What about Bhavesh Atirwal and Kruthiram?
+
+129
+00:12:54,585 --> 00:12:55,245
+What is your take on it?
+
+130
+00:12:55,526 --> 00:12:56,286
+I think it's great.
+
+131
+00:12:56,586 --> 00:12:58,187
+I think it's wonderful, right?
+
+132
+00:12:58,227 --> 00:13:05,492
+I mean the fact that the technology, AI is so important that we need multiple people working on it.
+
+133
+00:13:05,612 --> 00:13:11,516
+The fact that there are other people thinking is actually validates that this is an important problem to be solved.
+
+134
+00:13:12,291 --> 00:13:17,336
+And I think that we need everybody to come together and do that.
+
+135
+00:13:17,737 --> 00:13:18,978
+So I really welcome that.
+
+136
+00:13:19,018 --> 00:13:20,019
+I think it's great.
+
+137
+00:13:20,439 --> 00:13:26,165
+And I think that there will be different people will have different takes as to how to solve this kind of problem.
+
+138
+00:13:26,625 --> 00:13:30,409
+And hopefully as a result of that, the entire ecosystem benefits.
+
+139
+00:13:31,735 --> 00:13:36,196
+I have one more question and then I want to talk about some of the predictions that you boldly made.
+
+140
+00:13:36,256 --> 00:13:40,497
+So Vivek, I usually ask people about what do you think the future will be and everybody usually hedges.
+
+141
+00:13:41,197 --> 00:13:43,938
+I ask Vivek, what do you think is going to happen by December 2024?
+
+142
+00:13:44,278 --> 00:13:47,899
+What do you think sitting in this room one year later we can expect?
+
+143
+00:13:48,279 --> 00:13:49,839
+And he made three bold predictions.
+
+144
+00:13:50,359 --> 00:13:51,580
+So I want to talk about that.
+
+145
+00:13:51,600 --> 00:13:52,940
+Before that I have one last question.
+
+146
+00:13:53,800 --> 00:13:57,984
+What are the top three applications that you think are relevant for India?
+
+147
+00:13:58,364 --> 00:13:59,505
+You heard Sridhar talk about medical.
+
+148
+00:14:00,766 --> 00:14:04,429
+Quick summary, what do you think the top three apps are for India for AI?
+
+149
+00:14:05,129 --> 00:14:15,057
+So I mean I think that as I said things like education and medical are clearly areas where I think that can be leveraged.
+
+150
+00:14:15,357 --> 00:14:16,458
+The whole idea of
+
+151
+00:14:16,718 --> 00:14:22,321
+or these kind of the DPI aspect of it is another major application where things can happen.
+
+152
+00:14:22,581 --> 00:14:24,582
+And here I'm talking about country specific work.
+
+153
+00:14:25,003 --> 00:14:29,985
+And I think the whole idea which you also talked about was the concept of software, right?
+
+154
+00:14:30,046 --> 00:14:36,169
+And I think that and clearly we have a very large software industry and how to reimagine those things.
+
+155
+00:14:36,409 --> 00:14:38,130
+This context is also something that's coming.
+
+156
+00:14:39,651 --> 00:14:40,011
+Fair enough.
+
+157
+00:14:40,571 --> 00:14:43,653
+Are you guys ready for Vivek Radwan's bold predictions?
+
+158
+00:14:44,694 --> 00:14:44,894
+Yeah?
+
+159
+00:14:45,462 --> 00:15:11,726
+no I'm not hearing any yes this is like a big deal he's like one of the smartest guys that I know he wants to make three predictions you don't want to hear it all right so I asked him what do you think you know here later what what do you think we can expect and he came up with three things and usually people give very blah answers when they ask questions like this because they don't want to be caught wrong not be vague, vague is bold so he basically said three things and I want to list out the three things and then
+
+160
+00:15:12,519 --> 00:15:13,100
+ask him about it.
+
+161
+00:15:13,620 --> 00:15:21,326
+So number one he says I would prefer to talk to an automated customer service than a real person because they give me a better answer.
+
+162
+00:15:21,847 --> 00:15:23,588
+That is Vivek Ragwan's prediction number one.
+
+163
+00:15:24,729 --> 00:15:32,655
+So number two is that when everybody is talking about a GPU shortage, Vivek predicts that there will be a GPU glut in India.
+
+164
+00:15:32,675 --> 00:15:33,776
+He thinks there will be too much GPU.
+
+165
+00:15:34,953 --> 00:15:37,796
+So, if you want a short in-media stock, it's a good time.
+
+166
+00:15:38,196 --> 00:15:44,162
+And number 3, which was extremely unexpected, he said some companies will suddenly die.
+
+167
+00:15:46,980 --> 00:15:47,781
+not what I expected.
+
+168
+00:15:47,801 --> 00:15:56,808
+So do you want to quickly talk about each of them, why you just came up with these and then we'll throw the audience questions.
+
+169
+00:15:56,828 --> 00:16:03,754
+So I don't think I quite said it the way that Walai was kind of pointing, but it's interesting.
+
+170
+00:16:04,014 --> 00:16:12,221
+But I think the first thing that we said is I think that, and I don't think that this, I think there will come a time
+
+171
+00:16:12,816 --> 00:16:17,646
+when you know in areas of customer service etc.
+
+172
+00:16:17,686 --> 00:16:20,352
+when you want to do something very specific.
+
+173
+00:16:20,816 --> 00:16:30,880
+Today, when you call some kind of a bot, you actually end up, you mostly try to disconnect the call or you're extremely upset that you're talking to a bot.
+
+174
+00:16:31,320 --> 00:16:44,646
+But I think that there will come a time, and I'm predicting this sooner than later, that you will actually get better responses from the bot than what the human representative, at least the average human representative that people talk to,
+
+175
+00:16:45,106 --> 00:17:07,496
+could give and I think that that's just I just said that there will come a time where you know it's not a human you're talking to but it's probably more likely to solve your intent that's just something that that that I think that could happen okay definitely controversial but we let it go what about the GPU glut
+
+176
+00:17:09,343 --> 00:17:20,649
+I think that the fact that there is a tremendous shortage right now, I think that shortage will ease because that is how the cycles of things go.
+
+177
+00:17:20,929 --> 00:17:34,357
+I think the fact that there was such a severe shortage last year basically caused a number of different players to ramp up in various kinds of forms and I think that will always go in cycles.
+
+178
+00:17:34,637 --> 00:17:39,901
+But we may find out that there are many more interesting problems that people will be able to solve.
+
+179
+00:17:40,342 --> 00:17:55,293
+I still remember, you know, we were at a JNEI event in Bangalore and we were talking to people and we said, you know, how many people have access to, you know, four A-hundred?
+
+180
+00:17:55,313 --> 00:17:56,554
+This was the question that I had asked.
+
+181
+00:17:56,855 --> 00:17:57,835
+And nobody in the room.
+
+182
+00:17:57,855 --> 00:17:59,937
+And these are all extremely enthusiastic JNEI people.
+
+183
+00:18:00,532 --> 00:18:01,452
+And nobody had access.
+
+184
+00:18:01,793 --> 00:18:03,413
+And I think that thing is going to change.
+
+185
+00:18:03,473 --> 00:18:05,434
+You will be able to get these kinds of things.
+
+186
+00:18:05,754 --> 00:18:14,558
+And people who want to hack and do things will have access to these things without having to write a check.
+
+187
+00:18:15,098 --> 00:18:16,739
+Vivek is also a semiconductor guy.
+
+188
+00:18:16,759 --> 00:18:17,800
+Before he went into Adar.
+
+189
+00:18:17,880 --> 00:18:20,321
+So I would take his predictions very seriously.
+
+190
+00:18:20,401 --> 00:18:21,421
+So I don't know what I would do.
+
+191
+00:18:21,481 --> 00:18:22,642
+I would sell my previous stock.
+
+192
+00:18:23,882 --> 00:18:24,543
+I would not do that.
+
+193
+00:18:24,623 --> 00:18:25,963
+But that's not what I said.
+
+194
+00:18:25,983 --> 00:18:29,065
+I don't want to blame you for this.
+
+195
+00:18:31,147 --> 00:18:32,450
+But the third one is pretty strange.
+
+196
+00:18:33,333 --> 00:18:34,957
+Companies are born, companies die.
+
+197
+00:18:35,358 --> 00:18:37,643
+But you said some companies will suddenly die.
+
+198
+00:18:38,083 --> 00:18:38,683
+What does that mean?
+
+199
+00:18:39,464 --> 00:18:46,688
+No, I think, see, I think the interesting thing is, and I think that it comes back to the fundamental nature of AI.
+
+200
+00:18:47,269 --> 00:18:49,050
+AI is a tool, right?
+
+201
+00:18:49,110 --> 00:18:50,391
+And you have to use that.
+
+202
+00:18:50,791 --> 00:18:54,493
+And you have to use that within your business process, right?
+
+203
+00:18:54,893 --> 00:18:56,434
+And how AI is being used.
+
+204
+00:18:56,514 --> 00:19:07,121
+And so, and what's going to happen is that, I mean, I think this is true with, you know, when someone said in terms of, you know, people, they said that the people who leverage AI
+
+205
+00:19:07,682 --> 00:19:11,325
+will be more effective than those who don't leverage AI.
+
+206
+00:19:11,805 --> 00:19:14,107
+And that will speak for organizations also.
+
+207
+00:19:14,687 --> 00:19:22,793
+Organizations that leverage AI fundamentally in their core business processes will be more effective than those who don't.
+
+208
+00:19:22,833 --> 00:19:23,934
+And I think that's the thing.
+
+209
+00:19:24,014 --> 00:19:30,178
+And you won't know the difference until one day it becomes too obvious and it will be too late.
+
+210
+00:19:30,458 --> 00:19:36,583
+And I think that's the reason why everybody needs to think about what it means for your business.
+
+211
+00:19:36,963 --> 00:19:39,164
+Because everything will be fine.
+
+212
+00:19:39,584 --> 00:19:50,848
+Everything will be fine and one day somebody in your either competitor in your space or something brand new coming into your space will be reimagining your business process completely.
+
+213
+00:19:51,248 --> 00:19:56,410
+And at that stage you will find that it's a very big, very tall business.
+
+214
+00:19:57,530 --> 00:20:09,596
+you know mountain to climb and that's why I think it's important for both people and entities to think about how they will you know they will upgrade themselves or they will modify their first system.
+
+215
+00:20:10,917 --> 00:20:16,640
+That's a very nuanced answer everybody here running a business should really think about it because life will be the same
+
+216
+00:20:17,295 --> 00:20:20,616
+And then suddenly, suddenly something will be a step change.
+
+217
+00:20:21,817 --> 00:20:25,178
+Vivek, I have a few more questions, but I'm sure the audience has a lot of questions for you.
+
+218
+00:20:25,719 --> 00:20:26,979
+So how are we doing on time?
+
+219
+00:20:28,340 --> 00:20:28,580
+OK.
+
+220
+00:20:29,040 --> 00:20:31,021
+So that's OK.
+
+221
+00:20:31,201 --> 00:20:32,661
+A lot of questions, so I'd love to.
+
+222
+00:20:33,482 --> 00:20:34,322
+Is there a mic that we can?
+
+223
+00:20:40,605 --> 00:20:40,885
+Thank you.
+
+224
+00:20:41,285 --> 00:20:42,025
+My name is Karthik.
+
+225
+00:20:42,305 --> 00:20:45,907
+I work for IT service industry.
+
+226
+00:20:46,897 --> 00:21:07,277
+so you're saying that you're working on LLM sorry fine-tuned LLM on top of lama my basic question fundamental question is we don't have a foundational model for India most of the models are basically using English or those kind of things for example even Andrew was talking about
+
+227
+00:21:08,716 --> 00:21:10,117
+tokenizers and things like that.
+
+228
+00:21:10,137 --> 00:21:17,599
+So are you working on anything like that or you want to use mostly the existing models and run on top of it?
+
+229
+00:21:17,619 --> 00:21:18,700
+Good question.
+
+230
+00:21:18,740 --> 00:21:20,600
+You asked a cherry question for us.
+
+231
+00:21:21,321 --> 00:21:30,144
+No, I think the interesting thing is that if you look at, and we have actually a blog on this, on our website, I think one of the things that we actually built
+
+232
+00:21:31,224 --> 00:21:58,881
+a customized tokenizer which actually fundamentally changes the cost of some of these generations in India languages and I think that we are not just we are actually we are leveraging the existing training but we are doing what's known as continual pre-training which actually but having said that you know I think that once we have to figure out where is the data to train an extremely large model from scratch and some of those things are things which will happen
+
+233
+00:21:59,921 --> 00:22:00,401
+over time.
+
+234
+00:22:00,541 --> 00:22:06,624
+But I think that yes, I think that we will be doing various kinds of things.
+
+235
+00:22:06,664 --> 00:22:14,347
+But the interesting thing is that if I want to change the accessibility problem with an existing open source model, how do I do that?
+
+236
+00:22:14,427 --> 00:22:17,728
+And that's the problem that we think we have solved.
+
+237
+00:22:17,828 --> 00:22:20,429
+And it's going to be the heart of this.
+
+238
+00:22:20,609 --> 00:22:23,110
+It's extremely well explained in the blog, even I could understand.
+
+239
+00:22:23,130 --> 00:22:26,431
+Hi, I'm Prashanth.
+
+240
+00:22:26,632 --> 00:22:27,792
+I work for a fintech company.
+
+241
+00:22:28,391 --> 00:22:38,654
+My question is like, unlike China, we never had a consumer facing application coming out from India and in web one, web two, crypto and on.
+
+242
+00:22:39,514 --> 00:22:44,135
+Why do you think it would be different this time in like AI?
+
+243
+00:22:44,675 --> 00:22:52,838
+Because will the DPI and other things will serve the same purpose what the Great Firewall did in China?
+
+244
+00:22:53,238 --> 00:22:57,359
+Or do you think like, because AI is a strategic sector,
+
+245
+00:22:58,186 --> 00:23:05,176
+no outside country can work in NASA projects, maybe all government content will go to them.
+
+246
+00:23:05,736 --> 00:23:08,540
+What is at least the mode here for any income?
+
+247
+00:23:11,284 --> 00:23:15,449
+So, I think the question is,
+
+248
+00:23:16,551 --> 00:23:33,477
+I don't know the answer to these questions right I mean I think that it's difficult to predict but I do believe and as I am repeating that the combinatorial effect of reusing Gen AI at a large scale in addition in along with the DPI work that we have done in India
+
+249
+00:23:33,917 --> 00:23:55,344
+will have people and I and I think that in the end it is the intent is that people need to be able to use it and they will vote by things that are useful for them and if that doesn't happen you're right that that I think that we have to figure out what is the mechanism of delivery of apps right I mean how where do Indians consume
+
+250
+00:23:57,529 --> 00:23:59,170
+I am so sorry, but we are out of time.
+
+251
+00:23:59,270 --> 00:24:00,550
+Vivek will be outside.
+
+252
+00:24:01,030 --> 00:24:03,251
+So he will be able to answer the question.
+
+253
+00:24:03,271 --> 00:24:04,412
+We have time for one last question.
+
+254
+00:24:04,472 --> 00:24:06,172
+Can I just take one last?
+
+255
+00:24:06,232 --> 00:24:06,412
+Yeah.
+
+256
+00:24:07,173 --> 00:24:07,493
+Thank you.
+
+257
+00:24:07,613 --> 00:24:07,933
+Thank you.
+
+258
+00:24:08,013 --> 00:24:08,973
+I am Manish Kothari.
+
+259
+00:24:08,993 --> 00:24:10,654
+I am from ISBR Business School.
+
+260
+00:24:10,714 --> 00:24:12,875
+Good that I got a chance to ask you this question.
+
+261
+00:24:13,495 --> 00:24:17,777
+During lunchtime, there were a few of our educationists whom we were talking about.
+
+262
+00:24:17,897 --> 00:24:21,438
+There was one from school and we are from the MBA institutions.
+
+263
+00:24:21,498 --> 00:24:23,899
+We were thinking of these present generations.
+
+264
+00:24:23,979 --> 00:24:26,620
+How do we get them into what you are doing?
+
+265
+00:24:27,651 --> 00:24:39,831
+There is one thing that they have been regularly that the concentrations that they are working on but artificial intelligence and getting into this, getting them into their academics and making them a part of it is very important including the trainers who train them.
+
+266
+00:24:40,399 --> 00:24:46,184
+Making them future ready into what you are doing is amazing and the speed that with which is growing.
+
+267
+00:24:46,364 --> 00:24:49,646
+It is calling for a lot of training that needs to be done.
+
+268
+00:24:50,307 --> 00:24:54,510
+Can you from your angle through some light on how we could make them future ready?
+
+269
+00:24:55,070 --> 00:25:00,234
+How these people who are who are management graduates and from schools who are coming out?
+
+270
+00:25:00,695 --> 00:25:03,497
+How do we get into this part of technology that you spoke about?
+
+271
+00:25:05,038 --> 00:25:22,104
+This is really a challenge because I think everyone will need to understand at some level what this technology does and I think that we have to rethink how we get everyone into this and that this kind of education has to be at many different levels, right?
+
+272
+00:25:22,144 --> 00:25:26,486
+There are from a core set of having people who are extremely good
+
+273
+00:25:27,847 --> 00:25:34,031
+And there you don't need as many, but then there are vast numbers of people who can actually leverage these tools.
+
+274
+00:25:34,311 --> 00:25:44,237
+By the way, the most important thing about, and maybe that's part of what makes an LLM interesting, is that how you use it, your mileage varies by that.
+
+275
+00:25:44,597 --> 00:25:52,240
+And to understand how to actually leverage this in an interesting way is something that we have to widely teach many, many people.
+
+276
+00:25:53,420 --> 00:26:03,244
+And because asking the things in the right way and having the right kind of applications will make a difference in how people get used to this.
+
+277
+00:26:03,264 --> 00:26:03,404
+Awesome.
+
+278
+00:26:03,424 --> 00:26:03,864
+Thank you.
+
+279
+00:26:04,264 --> 00:26:05,605
+Thank you very much Vivek.
+
+280
+00:26:05,765 --> 00:26:07,646
+Very good luck to Sarvam and good luck to India.
+
+281
+00:26:07,666 --> 00:26:09,966
+I think it's going to be a lot right on your shoulders.
+
+282
+00:26:10,887 --> 00:26:11,347
+Thanks, Vala.
+
+283
+00:26:13,718 --> 00:26:14,755
+Thank you Mr. Raghavan.
+
